@@ -9,30 +9,34 @@ Updated at : 02/11/2023</h5>
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-<h2 id="project 1"> 프로젝트 개요 </h2>
+<h2 id="project 1"> 01. 데이터 수집 프로젝트 </h2>
 
 <p align="justify"> 
-  이 프로젝트는 이런 내용이다. 이런 것에 대한 내용이고 이런것을 다룰 것이다. 아시궜어요?
+<ul>
+  <li><b>스크래핑</b> - Where all of the search algorithms reside.</li>
+  <li><b>크롤링</b> - Where all of the search-based agents reside.</li>
+</ul>
 </p>
 
 <!-- 파일 설명 -->
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-<h2 id="project 1"> Project Files Description </h2>
+<h2 id="project 1"> 02. 과거 프로젝트들 </h2>
 
 <p align="justify"> 
-  이것은 파일에 대한 설명입니다.
+<ul>
+  <li><b>시계열 프로젝트들</b> - Where all of the search algorithms reside.</li>
+  <li><b>car pic</b> - Where all of the search-based agents reside.</li>
+</ul>
 </p>
-1. search.py : 먼지 알지?   
-2. sdf.py : 알 거라 믿어
 
 
 <!-- 인사이트 -->
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-<h2 id="project 1"> insight </h2>
+<h2 id="project 1", align="center"> insight </h2>
 
 <p align="justify"> 
   이 프로젝트를 통해 얻은 것들. 나열 쭉 해주고

@@ -27,7 +27,7 @@ Updated at : 02/11/2023</h5>
 <p align="justify"> 
 <ul>
   <li><b>시계열 프로젝트들</b> - Where all of the search algorithms reside.</li>
-  <li><b>car pic</b> - Where all of the search-based agents reside.</li>
+  <li><b>딥 러닝 노트정리</b> - https://docs.google.com/document/d/e/2PACX-1vR7Ul2A2LMGQAyC6-QT2vcW1rWLp34cX5uFDgiQZ5uHfVtMJA2O5BeCR-AbNnqTzw/pub</li>
 </ul>
 </p>
 

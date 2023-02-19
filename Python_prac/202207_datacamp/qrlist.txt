@@ -1,0 +1,5 @@
+www.google.com
+www.apple.com
+www.snu.ac.kr
+www.seoultech.ac.kr
+www.hallym.ac.kr

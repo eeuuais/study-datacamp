@@ -1,4 +1,4 @@
-<h1 align="center"> my project 1 </h1>
+<h1 align="center"> studypolio </h1>
 <h3 align="center"> under title - Artificial Intelligence </h3>
 <h5 align="center"> Created by : Soyeon Sohn<br>
 Created at : 02/11/2023<br>
@@ -9,12 +9,12 @@ Updated at : 02/11/2023</h5>
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-<h2 id="project 1"> 01. 데이터 수집 프로젝트 </h2>
+<h2 id="project 1"> 01. AutoML </h2>
 
 <p align="justify"> 
 <ul>
-  <li><b>스크래핑</b> - Where all of the search algorithms reside.</li>
-  <li><b>크롤링</b> - Where all of the search-based agents reside.</li>
+  <li><b>AutoML Study</b> https://fuchsia-caravan-3cd.notion.site/On-Going-AutoML_Data-Preparation-paper-review-726f1db1b5d8468f9d54c080ac10551f</li>
+  <li><b>pycaret</b> 파이캐럿 실습 ㅎ</li>
 </ul>
 </p>
 

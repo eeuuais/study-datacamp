@@ -1,4 +1,4 @@
-<h1 align="center"> studypolio </h1>
+<h1 align="center"> 알고리즘 스터디 </h1>
 <h3 align="center"> Artificial Intelligence </h3>
 <h5 align="center"> Created by : Soyeon Sohn<br>
 Created at : 02/11/2023<br>
